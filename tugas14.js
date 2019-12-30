@@ -1,0 +1,10 @@
+var a = 37;
+var b = 19;
+var hasil = a/b;
+console.log(hasil);
+console.log("========================================");
+console.log(Math.round(hasil));
+console.log("========================================");
+console.log(Math.ceil(hasil));
+console.log("========================================");
+console.log(Math.floor(hasil));
